@@ -6,7 +6,7 @@ plugins {
     kotlin("plugin.serialization") version "1.5.31"
 }
 
-group = "me.mahas"
+group = "me.GruppeI"
 version = "1.0-SNAPSHOT"
 
 repositories {
